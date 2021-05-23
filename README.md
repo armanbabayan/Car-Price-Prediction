@@ -11,4 +11,4 @@
 ## Demo
 Link: <https://vehicle-priceprediction.herokuapp.com/>
 
-![Heroku](https://drive.google.com/file/d/1_noFo6lOpYMpJyPXk-OY4eYvqDtrQ97b/view?usp=sharing)
+![Heroku](https://vehicle-priceprediction.herokuapp.com/)
