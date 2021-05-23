@@ -11,4 +11,4 @@
 ## Demo
 Link: <https://vehicle-priceprediction.herokuapp.com/>
 
-![Heroku](https://commonmark.org/help/images/favicon.png)
+![Heroku](https://drive.google.com/file/d/1_noFo6lOpYMpJyPXk-OY4eYvqDtrQ97b/view?usp=sharing)
