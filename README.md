@@ -45,5 +45,6 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 
 ## Technologies Used
 ![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)  ![junicorn](https://gunicorn.org/)
-![flask](https://user-images.githubusercontent.com/84587490/119320032-2fe65680-bc8c-11eb-8dc4-a3a103429f41.png)
+![flask](https://user-images.githubusercontent.com/84587490/119320379-953a4780-bc8c-11eb-8ec7-3c21b2de4214.png)
+
 
