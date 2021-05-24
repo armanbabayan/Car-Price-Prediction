@@ -31,7 +31,7 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 ## Directory Tree
 
 ├── data \
-│<br >├── car dataset.csv \
+│<>├── car dataset.csv \
 ├── notebooks \
 │   ├── Car price.ipynb \
 ├── templates \
