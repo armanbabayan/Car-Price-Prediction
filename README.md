@@ -31,16 +31,16 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 ## Directory Tree
 
 ├── data \
-│     ├── car dataset.csv
-├── notebooks
-│   ├── Car price.ipynb
-├── templates
-│   ├── index.html
-├── Procfile
-├── README.md
-├── RandomForestRegressor.pkl
-├── app.py
-├── main.py
+│<br />├── car dataset.csv \
+├── notebooks \
+│   ├── Car price.ipynb \
+├── templates \
+│   ├── index.html \
+├── Procfile \
+├── README.md \
+├── RandomForestRegressor.pkl \
+├── app.py \
+├── main.py \
 └── requirements.txt
 
 ## Technologies Used
