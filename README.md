@@ -30,17 +30,17 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 
 ## Directory Tree
 <pre>
-├── data \
-│<>├── car dataset.csv \
-├── notebooks \
-│   ├── Car price.ipynb \
-├── templates \
-│   ├── index.html \
-├── Procfile \
-├── README.md \
-├── RandomForestRegressor.pkl \
-├── app.py \
-├── main.py \
+├── data 
+│   ├── car dataset.csv 
+├── notebooks
+│   ├── Car price.ipynb
+├── templates
+│   ├── index.html
+├── Procfile 
+├── README.md 
+├── RandomForestRegressor.pkl
+├── app.py
+├── main.py
 └── requirements.txt
 </pre>
 ## Technologies Used
