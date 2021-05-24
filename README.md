@@ -13,7 +13,6 @@
 Link: <https://vehicle-priceprediction.herokuapp.com/>
 
 ![Home](https://user-images.githubusercontent.com/84587490/119268842-ccb1e100-bc05-11eb-8a17-339ed7839b06.JPG)
-![Home](https://vehicle-priceprediction.herokuapp.com/)
 
 ## Overview
 
@@ -45,4 +44,4 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 └── requirements.txt
 
 ## Technologies Used
-![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667) ![Flask](https://flask.palletsprojects.com/en/1.1.x/) ![junicorn](https://gunicorn.org/)
+![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667) ![Flask](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png) ![junicorn](https://gunicorn.org/)
