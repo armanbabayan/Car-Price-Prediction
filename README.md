@@ -16,7 +16,7 @@ Link: <https://vehicle-priceprediction.herokuapp.com/>
 
 ## Overview
 
-This is a simple car price prediction Flask app trained on Random Forest Regrresor. The trained model  takes seven features describing a car (year, showroom price, driven Kilometers,number of owners the car has previously had, fuel type, seller type and transmission type) as an input and predict the price of the car.
+This is a simple car price prediction Flask app trained on Random Forest Regrresor. The trained model  takes seven features describing a car (year, showroom price, driven Kilometers,number of owners the car has previously had, fuel type, seller type and transmission type) as an input and predicts the price of the car.
 
 ## Technical Aspect
 This project is divided into two part:
@@ -26,7 +26,7 @@ This project is divided into two part:
 
 ## Installation
 
-The Code is written in Python 3.8. If you don't have Python installed you can find it [here] (https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning] (https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+The Code is written in Python 3.8. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 
 ## Directory Tree
 <pre>
