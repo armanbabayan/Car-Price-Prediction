@@ -21,7 +21,7 @@ This is a simple car price prediction Flask app trained on Random Forest Regrres
 ## Technical Aspect
 This project is divided into two part:
 
-   1. Training a deep learning model using Random Forest Regrresor.
+   1. Training a model using Random Forest Regrresor.
    2. Building and hosting a Flask web app on Heroku.
 
 ## Installation
